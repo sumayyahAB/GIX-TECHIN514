@@ -1,0 +1,7 @@
+#GIX-TECHIN514
+
+This is the working environment and the testing code for my sensor project..
+
+To use these scripts, set up the project using the conda environment specified in GIXTECHIN514.yaml.
+
+You can test your environment with the GIX_envtest.py script.
